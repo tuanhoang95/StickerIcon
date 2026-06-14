@@ -1,0 +1,1213 @@
+[
+  {
+    "id": "1",
+    "name": "Panda Head",
+    "style": "Meme",
+    "app": [
+      {
+        "url": "/stickers/panda_head/001_phone.png",
+        "appName": "Phone",
+        "packageName": "com.google.android.dialer"
+      },
+      {
+        "url": "/stickers/panda_head/002_contacts.png",
+        "appName": "Contacts",
+        "packageName": "com.google.android.contacts"
+      },
+      {
+        "url": "/stickers/panda_head/003_messages.png",
+        "appName": "Messages",
+        "packageName": "com.google.android.apps.messaging"
+      },
+      {
+        "url": "/stickers/panda_head/004_google_chrome.png",
+        "appName": "Google Chrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "url": "/stickers/panda_head/005_safari.png",
+        "appName": "Safari",
+        "packageName": "com.apple.mobilesafari"
+      },
+      {
+        "url": "/stickers/panda_head/006_camera.png",
+        "appName": "Camera",
+        "packageName": "com.google.android.GoogleCamera"
+      },
+      {
+        "url": "/stickers/panda_head/007_photos.png",
+        "appName": "Photos",
+        "packageName": "com.apple.mobileslideshow"
+      },
+      {
+        "url": "/stickers/panda_head/008_google_photos.png",
+        "appName": "Google Photos",
+        "packageName": "com.google.android.apps.photos"
+      },
+      {
+        "url": "/stickers/panda_head/009_gallery.png",
+        "appName": "Gallery",
+        "packageName": "com.sec.android.gallery3d"
+      },
+      {
+        "url": "/stickers/panda_head/010_calculator.png",
+        "appName": "Calculator",
+        "packageName": "com.google.android.calculator"
+      },
+      {
+        "url": "/stickers/panda_head/011_clock.png",
+        "appName": "Clock",
+        "packageName": "com.google.android.deskclock"
+      },
+      {
+        "url": "/stickers/panda_head/012_calendar.png",
+        "appName": "Calendar",
+        "packageName": "com.google.android.calendar"
+      },
+      {
+        "url": "/stickers/panda_head/013_files_by_google.png",
+        "appName": "Files by Google",
+        "packageName": "com.google.android.apps.nbu.files"
+      },
+      {
+        "url": "/stickers/panda_head/014_settings.png",
+        "appName": "Settings",
+        "packageName": "com.android.settings"
+      },
+      {
+        "url": "/stickers/panda_head/015_gmail.png",
+        "appName": "Gmail",
+        "packageName": "com.google.android.gm"
+      },
+      {
+        "url": "/stickers/panda_head/016_apple_mail.png",
+        "appName": "Apple Mail",
+        "packageName": "com.apple.mobilemail"
+      },
+      {
+        "url": "/stickers/panda_head/017_google_keep.png",
+        "appName": "Google Keep",
+        "packageName": "com.google.android.keep"
+      },
+      {
+        "url": "/stickers/panda_head/018_apple_notes.png",
+        "appName": "Apple Notes",
+        "packageName": "com.apple.mobilenotes"
+      },
+      {
+        "url": "/stickers/panda_head/019_facebook.png",
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana"
+      },
+      {
+        "url": "/stickers/panda_head/020_instagram.png",
+        "appName": "Instagram",
+        "packageName": "com.instagram.android"
+      },
+      {
+        "url": "/stickers/panda_head/021_tiktok.png",
+        "appName": "TikTok",
+        "packageName": "com.zhiliaoapp.musically"
+      },
+      {
+        "url": "/stickers/panda_head/022_threads.png",
+        "appName": "Threads",
+        "packageName": "com.instagram.barcelona"
+      },
+      {
+        "url": "/stickers/panda_head/023_x.png",
+        "appName": "X",
+        "packageName": "com.twitter.android"
+      },
+      {
+        "url": "/stickers/panda_head/024_zalo.png",
+        "appName": "Zalo",
+        "packageName": "com.zing.zalo"
+      },
+      {
+        "url": "/stickers/panda_head/025_messenger.png",
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca"
+      },
+      {
+        "url": "/stickers/panda_head/026_telegram.png",
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger"
+      },
+      {
+        "url": "/stickers/panda_head/027_whatsapp.png",
+        "appName": "WhatsApp",
+        "packageName": "com.whatsapp"
+      },
+      {
+        "url": "/stickers/panda_head/028_youtube.png",
+        "appName": "YouTube",
+        "packageName": "com.google.android.youtube"
+      },
+      {
+        "url": "/stickers/panda_head/029_netflix.png",
+        "appName": "Netflix",
+        "packageName": "com.netflix.mediaclient"
+      },
+      {
+        "url": "/stickers/panda_head/030_spotify.png",
+        "appName": "Spotify",
+        "packageName": "com.spotify.music"
+      },
+      {
+        "url": "/stickers/panda_head/031_disneyplus.png",
+        "appName": "Disney+",
+        "packageName": "com.disney.disneyplus"
+      },
+      {
+        "url": "/stickers/panda_head/032_chatgpt.png",
+        "appName": "ChatGPT",
+        "packageName": "com.openai.chatgpt"
+      },
+      {
+        "url": "/stickers/panda_head/033_google_gemini.png",
+        "appName": "Google Gemini",
+        "packageName": "com.google.android.apps.bard"
+      },
+      {
+        "url": "/stickers/panda_head/034_microsoft_copilot.png",
+        "appName": "Microsoft Copilot",
+        "packageName": "com.microsoft.copilot"
+      },
+      {
+        "url": "/stickers/panda_head/035_perplexity.png",
+        "appName": "Perplexity",
+        "packageName": "ai.perplexity.app.android"
+      },
+      {
+        "url": "/stickers/panda_head/036_shopee.png",
+        "appName": "Shopee",
+        "packageName": "com.shopee.vn"
+      },
+      {
+        "url": "/stickers/panda_head/037_lazada.png",
+        "appName": "Lazada",
+        "packageName": "com.lazada.android"
+      },
+      {
+        "url": "/stickers/panda_head/038_tiktok_shop.png",
+        "appName": "TikTok Shop",
+        "packageName": "com.tiktokshop.seller"
+      },
+      {
+        "url": "/stickers/panda_head/039_momo.png",
+        "appName": "MoMo",
+        "packageName": "com.mservice.momotransfer"
+      },
+      {
+        "url": "/stickers/panda_head/040_zalopay.png",
+        "appName": "ZaloPay",
+        "packageName": "vn.com.vng.zalopay"
+      },
+      {
+        "url": "/stickers/panda_head/041_vnpay.png",
+        "appName": "VNPay",
+        "packageName": "vnpay.smartacccount"
+      },
+      {
+        "url": "/stickers/panda_head/042_google_maps.png",
+        "appName": "Google Maps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "url": "/stickers/panda_head/043_grab.png",
+        "appName": "Grab",
+        "packageName": "com.grabtaxi.passenger"
+      },
+      {
+        "url": "/stickers/panda_head/044_be.png",
+        "appName": "Be",
+        "packageName": "xyz.be.customer"
+      },
+      {
+        "url": "/stickers/panda_head/045_linkedin.png",
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android"
+      },
+      {
+        "url": "/stickers/panda_head/046_pinterest.png",
+        "appName": "Pinterest",
+        "packageName": "com.pinterest"
+      },
+      {
+        "url": "/stickers/panda_head/047_reddit.png",
+        "appName": "Reddit",
+        "packageName": "com.reddit.frontpage"
+      },
+      {
+        "url": "/stickers/panda_head/048_discord.png",
+        "appName": "Discord",
+        "packageName": "com.discord"
+      },
+      {
+        "url": "/stickers/panda_head/049_capcut.png",
+        "appName": "CapCut",
+        "packageName": "com.lemon.lvoverseas"
+      },
+      {
+        "url": "/stickers/panda_head/050_canva.png",
+        "appName": "Canva",
+        "packageName": "com.canva.editor"
+      },
+      {
+        "url": "/stickers/panda_head/051_google_drive.png",
+        "appName": "Google Drive",
+        "packageName": "com.google.android.apps.docs"
+      },
+      {
+        "url": "/stickers/panda_head/052_dropbox.png",
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android"
+      },
+      {
+        "url": "/stickers/panda_head/053_onedrive.png",
+        "appName": "OneDrive",
+        "packageName": "com.microsoft.skydrive"
+      },
+      {
+        "url": "/stickers/panda_head/054_zoom.png",
+        "appName": "Zoom",
+        "packageName": "us.zoom.videomeetings"
+      },
+      {
+        "url": "/stickers/panda_head/055_google_meet.png",
+        "appName": "Google Meet",
+        "packageName": "com.google.android.apps.tachyon"
+      },
+      {
+        "url": "/stickers/panda_head/056_microsoft_teams.png",
+        "appName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "url": "/stickers/panda_head/057_notion.png",
+        "appName": "Notion",
+        "packageName": "notion.id"
+      },
+      {
+        "url": "/stickers/panda_head/058_trello.png",
+        "appName": "Trello",
+        "packageName": "com.trello"
+      },
+      {
+        "url": "/stickers/panda_head/059_duolingo.png",
+        "appName": "Duolingo",
+        "packageName": "com.duolingo"
+      },
+      {
+        "url": "/stickers/panda_head/060_microsoft_word.png",
+        "appName": "Microsoft Word",
+        "packageName": "com.microsoft.office.word"
+      },
+      {
+        "url": "/stickers/panda_head/061_microsoft_excel.png",
+        "appName": "Microsoft Excel",
+        "packageName": "com.microsoft.office.excel"
+      },
+      {
+        "url": "/stickers/panda_head/062_microsoft_powerpoint.png",
+        "appName": "Microsoft PowerPoint",
+        "packageName": "com.microsoft.office.powerpoint"
+      },
+      {
+        "url": "/stickers/panda_head/063_google_docs.png",
+        "appName": "Google Docs",
+        "packageName": "com.google.android.apps.docs.editors.docs"
+      },
+      {
+        "url": "/stickers/panda_head/064_google_sheets.png",
+        "appName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets"
+      },
+      {
+        "url": "/stickers/panda_head/065_google_slides.png",
+        "appName": "Google Slides",
+        "packageName": "com.google.android.apps.docs.editors.slides"
+      },
+      {
+        "url": "/stickers/panda_head/066_adobe_acrobat_reader.png",
+        "appName": "Adobe Acrobat Reader",
+        "packageName": "com.adobe.reader"
+      },
+      {
+        "url": "/stickers/panda_head/067_shazam.png",
+        "appName": "Shazam",
+        "packageName": "com.shazam.android"
+      },
+      {
+        "url": "/stickers/panda_head/068_soundcloud.png",
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android"
+      },
+      {
+        "url": "/stickers/panda_head/069_amazon.png",
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping"
+      },
+      {
+        "url": "/stickers/panda_head/070_alibaba.png",
+        "appName": "Alibaba",
+        "packageName": "com.alibaba.intl.android.apps.poseidon"
+      },
+      {
+        "url": "/stickers/panda_head/071_aliexpress.png",
+        "appName": "AliExpress",
+        "packageName": "com.alibaba.aliexpresshd"
+      },
+      {
+        "url": "/stickers/panda_head/072_booking_com.png",
+        "appName": "Booking.com",
+        "packageName": "com.booking"
+      },
+      {
+        "url": "/stickers/panda_head/073_agoda.png",
+        "appName": "Agoda",
+        "packageName": "com.agoda.mobile.consumer"
+      },
+      {
+        "url": "/stickers/panda_head/074_airbnb.png",
+        "appName": "Airbnb",
+        "packageName": "com.airbnb.android"
+      },
+      {
+        "url": "/stickers/panda_head/075_trip_com.png",
+        "appName": "Trip.com",
+        "packageName": "ctrip.english"
+      },
+      {
+        "url": "/stickers/panda_head/076_my_viettel.png",
+        "appName": "My Viettel",
+        "packageName": "com.vttm.vietteldiscovery"
+      },
+      {
+        "url": "/stickers/panda_head/077_my_vnpt.png",
+        "appName": "My VNPT",
+        "packageName": "com.vnp.myvinaphone"
+      },
+      {
+        "url": "/stickers/panda_head/078_my_mobifone.png",
+        "appName": "My MobiFone",
+        "packageName": "vms.com.vn.mymobifone"
+      },
+      {
+        "url": "/stickers/panda_head/079_techcombank_mobile.png",
+        "appName": "Techcombank Mobile",
+        "packageName": "vn.com.techcombank.bb.app"
+      },
+      {
+        "url": "/stickers/panda_head/080_bidv_smartbanking.png",
+        "appName": "BIDV SmartBanking",
+        "packageName": "com.vnpay.bidv"
+      },
+      {
+        "url": "/stickers/panda_head/081_vietcombank_digibank.png",
+        "appName": "Vietcombank Digibank",
+        "packageName": "com.VCB"
+      },
+      {
+        "url": "/stickers/panda_head/082_mb_bank.png",
+        "appName": "MB Bank",
+        "packageName": "com.mbmobile"
+      },
+      {
+        "url": "/stickers/panda_head/083_cake.png",
+        "appName": "Cake",
+        "packageName": "xyz.be.cake"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Chicken",
+    "style": "Cute",
+    "app": [
+      {
+        "url": "/stickers/chicken/001_phone.png",
+        "appName": "Phone",
+        "packageName": "com.google.android.dialer"
+      },
+      {
+        "url": "/stickers/chicken/002_contacts.png",
+        "appName": "Contacts",
+        "packageName": "com.google.android.contacts"
+      },
+      {
+        "url": "/stickers/chicken/003_messages.png",
+        "appName": "Messages",
+        "packageName": "com.google.android.apps.messaging"
+      },
+      {
+        "url": "/stickers/chicken/004_google_chrome.png",
+        "appName": "Google Chrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "url": "/stickers/chicken/005_safari.png",
+        "appName": "Safari",
+        "packageName": "Not Available on Android"
+      },
+      {
+        "url": "/stickers/chicken/006_camera.png",
+        "appName": "Camera",
+        "packageName": "com.google.android.GoogleCamera"
+      },
+      {
+        "url": "/stickers/chicken/007_google_photos.png",
+        "appName": "Google Photos",
+        "packageName": "com.google.android.apps.photos"
+      },
+      {
+        "url": "/stickers/chicken/008_gallery.png",
+        "appName": "Gallery",
+        "packageName": "com.android.gallery3d"
+      },
+      {
+        "url": "/stickers/chicken/009_calculator.png",
+        "appName": "Calculator",
+        "packageName": "com.google.android.calculator"
+      },
+      {
+        "url": "/stickers/chicken/010_clock.png",
+        "appName": "Clock",
+        "packageName": "com.google.android.deskclock"
+      },
+      {
+        "url": "/stickers/chicken/011_calendar.png",
+        "appName": "Calendar",
+        "packageName": "com.google.android.calendar"
+      },
+      {
+        "url": "/stickers/chicken/012_files_by_google.png",
+        "appName": "Files by Google",
+        "packageName": "com.google.android.apps.nbu.files"
+      },
+      {
+        "url": "/stickers/chicken/013_settings.png",
+        "appName": "Settings",
+        "packageName": "com.android.settings"
+      },
+      {
+        "url": "/stickers/chicken/014_gmail.png",
+        "appName": "Gmail",
+        "packageName": "com.google.android.gm"
+      },
+      {
+        "url": "/stickers/chicken/015_apple_mail.png",
+        "appName": "Apple Mail",
+        "packageName": "Not Available on Android"
+      },
+      {
+        "url": "/stickers/chicken/016_google_keep.png",
+        "appName": "Google Keep",
+        "packageName": "com.google.android.keep"
+      },
+      {
+        "url": "/stickers/chicken/017_facebook.png",
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana"
+      },
+      {
+        "url": "/stickers/chicken/018_instagram.png",
+        "appName": "Instagram",
+        "packageName": "com.instagram.android"
+      },
+      {
+        "url": "/stickers/chicken/019_tiktok.png",
+        "appName": "TikTok",
+        "packageName": "com.ss.android.ugc.trill"
+      },
+      {
+        "url": "/stickers/chicken/020_threads.png",
+        "appName": "Threads",
+        "packageName": "com.instagram.barcelona"
+      },
+      {
+        "url": "/stickers/chicken/021_x.png",
+        "appName": "X",
+        "packageName": "com.twitter.android"
+      },
+      {
+        "url": "/stickers/chicken/022_zalo.png",
+        "appName": "Zalo",
+        "packageName": "com.zing.zalo"
+      },
+      {
+        "url": "/stickers/chicken/023_messenger.png",
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca"
+      },
+      {
+        "url": "/stickers/chicken/024_telegram.png",
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger"
+      },
+      {
+        "url": "/stickers/chicken/025_whatsapp.png",
+        "appName": "WhatsApp",
+        "packageName": "com.whatsapp"
+      },
+      {
+        "url": "/stickers/chicken/026_youtube.png",
+        "appName": "YouTube",
+        "packageName": "com.google.android.youtube"
+      },
+      {
+        "url": "/stickers/chicken/027_netflix.png",
+        "appName": "Netflix",
+        "packageName": "com.netflix.mediaclient"
+      },
+      {
+        "url": "/stickers/chicken/028_spotify.png",
+        "appName": "Spotify",
+        "packageName": "com.spotify.music"
+      },
+      {
+        "url": "/stickers/chicken/029_disney.png",
+        "appName": "Disney+",
+        "packageName": "com.disney.disneyplus"
+      },
+      {
+        "url": "/stickers/chicken/030_chatgpt.png",
+        "appName": "ChatGPT",
+        "packageName": "com.openai.chatgpt"
+      },
+      {
+        "url": "/stickers/chicken/031_google_gemini.png",
+        "appName": "Google Gemini",
+        "packageName": "com.google.android.apps.googleassistant"
+      },
+      {
+        "url": "/stickers/chicken/032_microsoft_copilot.png",
+        "appName": "Microsoft Copilot",
+        "packageName": "com.microsoft.copilot"
+      },
+      {
+        "url": "/stickers/chicken/033_perplexity.png",
+        "appName": "Perplexity",
+        "packageName": "ai.perplexity.perplexity"
+      },
+      {
+        "url": "/stickers/chicken/034_shopee.png",
+        "appName": "Shopee",
+        "packageName": "com.shopee.vn"
+      },
+      {
+        "url": "/stickers/chicken/035_lazada.png",
+        "appName": "Lazada",
+        "packageName": "com.lazada.android"
+      },
+      {
+        "url": "/stickers/chicken/036_tiktok_shop.png",
+        "appName": "TikTok Shop",
+        "packageName": "com.tiktok.shop.seller"
+      },
+      {
+        "url": "/stickers/chicken/037_momo.png",
+        "appName": "MoMo",
+        "packageName": "com.mservice.momotransfer"
+      },
+      {
+        "url": "/stickers/chicken/038_zalopay.png",
+        "appName": "ZaloPay",
+        "packageName": "vn.com.vng.zalopay"
+      },
+      {
+        "url": "/stickers/chicken/039_vnpay.png",
+        "appName": "VNPay",
+        "packageName": "com.vnpay.vnpaywallet"
+      },
+      {
+        "url": "/stickers/chicken/040_google_maps.png",
+        "appName": "Google Maps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "url": "/stickers/chicken/041_grab.png",
+        "appName": "Grab",
+        "packageName": "com.grabtaxi.passenger"
+      },
+      {
+        "url": "/stickers/chicken/042_be.png",
+        "appName": "Be",
+        "packageName": "xyz.be.customer"
+      },
+      {
+        "url": "/stickers/chicken/043_linkedin.png",
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android"
+      },
+      {
+        "url": "/stickers/chicken/044_pinterest.png",
+        "appName": "Pinterest",
+        "packageName": "com.pinterest"
+      },
+      {
+        "url": "/stickers/chicken/045_reddit.png",
+        "appName": "Reddit",
+        "packageName": "com.reddit.frontpage"
+      },
+      {
+        "url": "/stickers/chicken/046_discord.png",
+        "appName": "Discord",
+        "packageName": "com.discord"
+      },
+      {
+        "url": "/stickers/chicken/047_capcut.png",
+        "appName": "CapCut",
+        "packageName": "com.lemon.lvoverseas"
+      },
+      {
+        "url": "/stickers/chicken/048_canva.png",
+        "appName": "Canva",
+        "packageName": "com.canva.editor"
+      },
+      {
+        "url": "/stickers/chicken/049_google_drive.png",
+        "appName": "Google Drive",
+        "packageName": "com.google.android.apps.docs"
+      },
+      {
+        "url": "/stickers/chicken/050_dropbox.png",
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android"
+      },
+      {
+        "url": "/stickers/chicken/051_onedrive.png",
+        "appName": "OneDrive",
+        "packageName": "com.microsoft.skydrive"
+      },
+      {
+        "url": "/stickers/chicken/052_zoom.png",
+        "appName": "Zoom",
+        "packageName": "us.zoom.videomeetings"
+      },
+      {
+        "url": "/stickers/chicken/053_google_meet.png",
+        "appName": "Google Meet",
+        "packageName": "com.google.android.apps.meetings"
+      },
+      {
+        "url": "/stickers/chicken/054_microsoft_teams.png",
+        "appName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "url": "/stickers/chicken/055_notion.png",
+        "appName": "Notion",
+        "packageName": "notion.id"
+      },
+      {
+        "url": "/stickers/chicken/056_trello.png",
+        "appName": "Trello",
+        "packageName": "com.trello"
+      },
+      {
+        "url": "/stickers/chicken/057_duolingo.png",
+        "appName": "Duolingo",
+        "packageName": "com.duolingo"
+      },
+      {
+        "url": "/stickers/chicken/058_microsoft_word.png",
+        "appName": "Microsoft Word",
+        "packageName": "com.microsoft.office.word"
+      },
+      {
+        "url": "/stickers/chicken/059_microsoft_excel.png",
+        "appName": "Microsoft Excel",
+        "packageName": "com.microsoft.office.excel"
+      },
+      {
+        "url": "/stickers/chicken/060_microsoft_powerpoint.png",
+        "appName": "Microsoft PowerPoint",
+        "packageName": "com.microsoft.office.powerpoint"
+      },
+      {
+        "url": "/stickers/chicken/061_google_docs.png",
+        "appName": "Google Docs",
+        "packageName": "com.google.android.apps.docs.editors.docs"
+      },
+      {
+        "url": "/stickers/chicken/062_google_sheets.png",
+        "appName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets"
+      },
+      {
+        "url": "/stickers/chicken/063_google_slides.png",
+        "appName": "Google Slides",
+        "packageName": "com.google.android.apps.docs.editors.slides"
+      },
+      {
+        "url": "/stickers/chicken/064_adobe_acrobat_reader.png",
+        "appName": "Adobe Acrobat Reader",
+        "packageName": "com.adobe.reader"
+      },
+      {
+        "url": "/stickers/chicken/065_shazam.png",
+        "appName": "Shazam",
+        "packageName": "com.shazam.android"
+      },
+      {
+        "url": "/stickers/chicken/066_soundcloud.png",
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android"
+      },
+      {
+        "url": "/stickers/chicken/067_amazon.png",
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping"
+      },
+      {
+        "url": "/stickers/chicken/068_alibaba.png",
+        "appName": "Alibaba",
+        "packageName": "com.alibaba.aliexpress.ita"
+      },
+      {
+        "url": "/stickers/chicken/069_aliexpress.png",
+        "appName": "AliExpress",
+        "packageName": "com.aliexpress.aliexpress"
+      },
+      {
+        "url": "/stickers/chicken/070_bookingcom.png",
+        "appName": "Booking.com",
+        "packageName": "com.booking"
+      },
+      {
+        "url": "/stickers/chicken/071_agoda.png",
+        "appName": "Agoda",
+        "packageName": "com.agoda.mobile.consumer"
+      },
+      {
+        "url": "/stickers/chicken/072_airbnb.png",
+        "appName": "Airbnb",
+        "packageName": "com.airbnb.android"
+      },
+      {
+        "url": "/stickers/chicken/073_tripcom.png",
+        "appName": "Trip.com",
+        "packageName": "com.tripcom.app"
+      },
+      {
+        "url": "/stickers/chicken/074_my_viettel.png",
+        "appName": "My Viettel",
+        "packageName": "com.viettel.myviettel"
+      },
+      {
+        "url": "/stickers/chicken/075_my_vnpt.png",
+        "appName": "My VNPT",
+        "packageName": "com.vnpt.myvnpt"
+      },
+      {
+        "url": "/stickers/chicken/076_my_mobifone.png",
+        "appName": "My MobiFone",
+        "packageName": "com.mobifone.mymobifone"
+      },
+      {
+        "url": "/stickers/chicken/077_techcombank_mobile.png",
+        "appName": "Techcombank Mobile",
+        "packageName": "vn.com.techcombank.identity"
+      },
+      {
+        "url": "/stickers/chicken/078_bidv_smartbanking.png",
+        "appName": "BIDV SmartBanking",
+        "packageName": "com.vnpay.bidv"
+      },
+      {
+        "url": "/stickers/chicken/079_vietcombank_digibank.png",
+        "appName": "Vietcombank Digibank",
+        "packageName": "com.vcb"
+      },
+      {
+        "url": "/stickers/chicken/080_mb_bank.png",
+        "appName": "MB Bank",
+        "packageName": "com.mbmobile"
+      },
+      {
+        "url": "/stickers/chicken/081_cake.png",
+        "appName": "Cake",
+        "packageName": "vn.cake.banking"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "DinoMochi",
+    "style": "Cute",
+    "app": [
+      {
+        "url": "/stickers/dinomochi/001_phone.png",
+        "appName": "Phone",
+        "packageName": "com.google.android.dialer"
+      },
+      {
+        "url": "/stickers/dinomochi/002_contacts.png",
+        "appName": "Contacts",
+        "packageName": "com.google.android.contacts"
+      },
+      {
+        "url": "/stickers/dinomochi/003_messages.png",
+        "appName": "Messages",
+        "packageName": "com.google.android.apps.messaging"
+      },
+      {
+        "url": "/stickers/dinomochi/004_google_chrome.png",
+        "appName": "Google Chrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "url": "/stickers/dinomochi/005_files.png",
+        "appName": "Files",
+        "packageName": "com.google.android.documentsui"
+      },
+      {
+        "url": "/stickers/dinomochi/006_camera.png",
+        "appName": "Camera",
+        "packageName": "com.google.android.GoogleCamera"
+      },
+      {
+        "url": "/stickers/dinomochi/007_google_photos.png",
+        "appName": "Google Photos",
+        "packageName": "com.google.android.apps.photos"
+      },
+      {
+        "url": "/stickers/dinomochi/008_gallery.png",
+        "appName": "Gallery",
+        "packageName": "com.android.gallery3d"
+      },
+      {
+        "url": "/stickers/dinomochi/009_calculator.png",
+        "appName": "Calculator",
+        "packageName": "com.google.android.calculator"
+      },
+      {
+        "url": "/stickers/dinomochi/010_clock.png",
+        "appName": "Clock",
+        "packageName": "com.google.android.deskclock"
+      },
+      {
+        "url": "/stickers/dinomochi/011_calendar.png",
+        "appName": "Calendar",
+        "packageName": "com.google.android.calendar"
+      },
+      {
+        "url": "/stickers/dinomochi/012_files_by_google.png",
+        "appName": "Files by Google",
+        "packageName": "com.google.android.apps.nbu.files"
+      },
+      {
+        "url": "/stickers/dinomochi/013_settings.png",
+        "appName": "Settings",
+        "packageName": "com.android.settings"
+      },
+      {
+        "url": "/stickers/dinomochi/014_gmail.png",
+        "appName": "Gmail",
+        "packageName": "com.google.android.gm"
+      },
+      {
+        "url": "/stickers/dinomochi/015_google_keep.png",
+        "appName": "Google Keep",
+        "packageName": "com.google.android.keep"
+      },
+      {
+        "url": "/stickers/dinomochi/016_facebook.png",
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana"
+      },
+      {
+        "url": "/stickers/dinomochi/017_instagram.png",
+        "appName": "Instagram",
+        "packageName": "com.instagram.android"
+      },
+      {
+        "url": "/stickers/dinomochi/018_tiktok.png",
+        "appName": "TikTok",
+        "packageName": "com.ss.android.ugc.trill"
+      },
+      {
+        "url": "/stickers/dinomochi/019_threads.png",
+        "appName": "Threads",
+        "packageName": "com.instagram.barcelona"
+      },
+      {
+        "url": "/stickers/dinomochi/020_x.png",
+        "appName": "X",
+        "packageName": "com.twitter.android"
+      },
+      {
+        "url": "/stickers/dinomochi/021_zalo.png",
+        "appName": "Zalo",
+        "packageName": "com.zing.zalo"
+      },
+      {
+        "url": "/stickers/dinomochi/022_messenger.png",
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca"
+      },
+      {
+        "url": "/stickers/dinomochi/023_telegram.png",
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger"
+      },
+      {
+        "url": "/stickers/dinomochi/024_whatsapp.png",
+        "appName": "WhatsApp",
+        "packageName": "com.whatsapp"
+      },
+      {
+        "url": "/stickers/dinomochi/025_youtube.png",
+        "appName": "YouTube",
+        "packageName": "com.google.android.youtube"
+      },
+      {
+        "url": "/stickers/dinomochi/026_spotify.png",
+        "appName": "Spotify",
+        "packageName": "com.spotify.music"
+      },
+      {
+        "url": "/stickers/dinomochi/027_disney.png",
+        "appName": "Disney+",
+        "packageName": "com.disney.disneyplus"
+      },
+      {
+        "url": "/stickers/dinomochi/028_chatgpt.png",
+        "appName": "ChatGPT",
+        "packageName": "com.openai.chatgpt"
+      },
+      {
+        "url": "/stickers/dinomochi/029_google_gemini.png",
+        "appName": "Google Gemini",
+        "packageName": "com.google.android.apps.googleassistant"
+      },
+      {
+        "url": "/stickers/dinomochi/030_microsoft_copilot.png",
+        "appName": "Microsoft Copilot",
+        "packageName": "com.microsoft.copilot"
+      },
+      {
+        "url": "/stickers/dinomochi/031_perplexity.png",
+        "appName": "Perplexity",
+        "packageName": "ai.perplexity.perplexity"
+      },
+      {
+        "url": "/stickers/dinomochi/032_shopee.png",
+        "appName": "Shopee",
+        "packageName": "com.shopee.vn"
+      },
+      {
+        "url": "/stickers/dinomochi/033_lazada.png",
+        "appName": "Lazada",
+        "packageName": "com.lazada.android"
+      },
+      {
+        "url": "/stickers/dinomochi/034_tiktok_shop.png",
+        "appName": "TikTok Shop",
+        "packageName": "com.tiktok.shop.seller"
+      },
+      {
+        "url": "/stickers/dinomochi/035_zalopay.png",
+        "appName": "ZaloPay",
+        "packageName": "vn.com.vng.zalopay"
+      },
+      {
+        "url": "/stickers/dinomochi/036_vnpay.png",
+        "appName": "VNPay",
+        "packageName": "com.vnpay.vnpaywallet"
+      },
+      {
+        "url": "/stickers/dinomochi/037_google_maps.png",
+        "appName": "Google Maps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "url": "/stickers/dinomochi/038_grab.png",
+        "appName": "Grab",
+        "packageName": "com.grabtaxi.passenger"
+      },
+      {
+        "url": "/stickers/dinomochi/039_be.png",
+        "appName": "Be",
+        "packageName": "xyz.be.customer"
+      },
+      {
+        "url": "/stickers/dinomochi/040_linkedin.png",
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android"
+      },
+      {
+        "url": "/stickers/dinomochi/041_pinterest.png",
+        "appName": "Pinterest",
+        "packageName": "com.pinterest"
+      },
+      {
+        "url": "/stickers/dinomochi/042_reddit.png",
+        "appName": "Reddit",
+        "packageName": "com.reddit.frontpage"
+      },
+      {
+        "url": "/stickers/dinomochi/043_discord.png",
+        "appName": "Discord",
+        "packageName": "com.discord"
+      },
+      {
+        "url": "/stickers/dinomochi/044_canva.png",
+        "appName": "Canva",
+        "packageName": "com.canva.editor"
+      },
+      {
+        "url": "/stickers/dinomochi/045_google_drive.png",
+        "appName": "Google Drive",
+        "packageName": "com.google.android.apps.docs"
+      },
+      {
+        "url": "/stickers/dinomochi/046_dropbox.png",
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android"
+      },
+      {
+        "url": "/stickers/dinomochi/047_onedrive.png",
+        "appName": "OneDrive",
+        "packageName": "com.microsoft.skydrive"
+      },
+      {
+        "url": "/stickers/dinomochi/048_zoom.png",
+        "appName": "Zoom",
+        "packageName": "us.zoom.videomeetings"
+      },
+      {
+        "url": "/stickers/dinomochi/049_google_meet.png",
+        "appName": "Google Meet",
+        "packageName": "com.google.android.apps.meetings"
+      },
+      {
+        "url": "/stickers/dinomochi/050_microsoft_teams.png",
+        "appName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "url": "/stickers/dinomochi/051_notion.png",
+        "appName": "Notion",
+        "packageName": "notion.id"
+      },
+      {
+        "url": "/stickers/dinomochi/052_trello.png",
+        "appName": "Trello",
+        "packageName": "com.trello"
+      },
+      {
+        "url": "/stickers/dinomochi/053_duolingo.png",
+        "appName": "Duolingo",
+        "packageName": "com.duolingo"
+      },
+      {
+        "url": "/stickers/dinomochi/054_microsoft_word.png",
+        "appName": "Microsoft Word",
+        "packageName": "com.microsoft.office.word"
+      },
+      {
+        "url": "/stickers/dinomochi/055_microsoft_excel.png",
+        "appName": "Microsoft Excel",
+        "packageName": "com.microsoft.office.excel"
+      },
+      {
+        "url": "/stickers/dinomochi/056_microsoft_powerpoint.png",
+        "appName": "Microsoft PowerPoint",
+        "packageName": "com.microsoft.office.powerpoint"
+      },
+      {
+        "url": "/stickers/dinomochi/057_google_sheets.png",
+        "appName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets"
+      },
+      {
+        "url": "/stickers/dinomochi/058_google_slides.png",
+        "appName": "Google Slides",
+        "packageName": "com.google.android.apps.docs.editors.slides"
+      },
+      {
+        "url": "/stickers/dinomochi/059_adobe_acrobat_reader.png",
+        "appName": "Adobe Acrobat Reader",
+        "packageName": "com.adobe.reader"
+      },
+      {
+        "url": "/stickers/dinomochi/060_shazam.png",
+        "appName": "Shazam",
+        "packageName": "com.shazam.android"
+      },
+      {
+        "url": "/stickers/dinomochi/061_soundcloud.png",
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android"
+      },
+      {
+        "url": "/stickers/dinomochi/062_amazon.png",
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping"
+      },
+      {
+        "url": "/stickers/dinomochi/063_aliexpress.png",
+        "appName": "AliExpress",
+        "packageName": "com.aliexpress.aliexpress"
+      },
+      {
+        "url": "/stickers/dinomochi/064_bookingcom.png",
+        "appName": "Booking.com",
+        "packageName": "com.booking"
+      },
+      {
+        "url": "/stickers/dinomochi/065_agoda.png",
+        "appName": "Agoda",
+        "packageName": "com.agoda.mobile.consumer"
+      },
+      {
+        "url": "/stickers/dinomochi/066_airbnb.png",
+        "appName": "Airbnb",
+        "packageName": "com.airbnb.android"
+      },
+      {
+        "url": "/stickers/dinomochi/067_tripcom.png",
+        "appName": "Trip.com",
+        "packageName": "com.tripcom.app"
+      },
+      {
+        "url": "/stickers/dinomochi/068_my_viettel.png",
+        "appName": "My Viettel",
+        "packageName": "com.viettel.myviettel"
+      },
+      {
+        "url": "/stickers/dinomochi/069_my_vnpt.png",
+        "appName": "My VNPT",
+        "packageName": "com.vnpt.myvnpt"
+      },
+      {
+        "url": "/stickers/dinomochi/070_my_mobifone.png",
+        "appName": "My MobiFone",
+        "packageName": "com.mobifone.mymobifone"
+      },
+      {
+        "url": "/stickers/dinomochi/071_techcombank_mobile.png",
+        "appName": "Techcombank Mobile",
+        "packageName": "vn.com.techcombank.identity"
+      },
+      {
+        "url": "/stickers/dinomochi/072_vietcombank_digibank.png",
+        "appName": "Vietcombank Digibank",
+        "packageName": "com.vcb"
+      },
+      {
+        "url": "/stickers/dinomochi/073_mb_bank.png",
+        "appName": "MB Bank",
+        "packageName": "com.mbmobile"
+      },
+      {
+        "url": "/stickers/dinomochi/074_cake.png",
+        "appName": "Cake",
+        "packageName": "vn.cake.banking"
+      }
+    ]
+  }
+]
