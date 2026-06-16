@@ -904,6 +904,373 @@
     ]
   },
   {
+    "id": "lazy_mood_girl",
+    "name": "Lazy Mood Girl",
+    "style": "Cute",
+    "app": [
+      {
+        "url": "/stickers/lazy_mood_girl/001_phone.png",
+        "appName": "Phone",
+        "packageName": "com.google.android.dialer"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/002_contacts.png",
+        "appName": "Contacts",
+        "packageName": "com.google.android.contacts"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/003_messages.png",
+        "appName": "Messages",
+        "packageName": "com.google.android.apps.messaging"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/004_google_chrome.png",
+        "appName": "Google Chrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/005_files.png",
+        "appName": "Files",
+        "packageName": "com.google.android.documentsui"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/006_camera.png",
+        "appName": "Camera",
+        "packageName": "com.google.android.GoogleCamera"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/007_google_photos.png",
+        "appName": "Google Photos",
+        "packageName": "com.google.android.apps.photos"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/008_gallery.png",
+        "appName": "Gallery",
+        "packageName": "com.android.gallery3d"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/009_calculator.png",
+        "appName": "Calculator",
+        "packageName": "com.google.android.calculator"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/010_clock.png",
+        "appName": "Clock",
+        "packageName": "com.google.android.deskclock"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/011_calendar.png",
+        "appName": "Calendar",
+        "packageName": "com.google.android.calendar"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/012_files_by_google.png",
+        "appName": "Files by Google",
+        "packageName": "com.google.android.apps.nbu.files"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/013_settings.png",
+        "appName": "Settings",
+        "packageName": "com.android.settings"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/014_gmail.png",
+        "appName": "Gmail",
+        "packageName": "com.google.android.gm"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/015_google_keep.png",
+        "appName": "Google Keep",
+        "packageName": "com.google.android.keep"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/016_facebook.png",
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/017_instagram.png",
+        "appName": "Instagram",
+        "packageName": "com.instagram.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/018_tiktok.png",
+        "appName": "TikTok",
+        "packageName": "com.ss.android.ugc.trill"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/019_threads.png",
+        "appName": "Threads",
+        "packageName": "com.instagram.barcelona"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/020_x.png",
+        "appName": "X",
+        "packageName": "com.twitter.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/021_zalo.png",
+        "appName": "Zalo",
+        "packageName": "com.zing.zalo"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/022_messenger.png",
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/023_telegram.png",
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/024_whatsapp.png",
+        "appName": "WhatsApp",
+        "packageName": "com.whatsapp"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/025_youtube.png",
+        "appName": "YouTube",
+        "packageName": "com.google.android.youtube"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/026_spotify.png",
+        "appName": "Spotify",
+        "packageName": "com.spotify.music"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/027_disney.png",
+        "appName": "Disney+",
+        "packageName": "com.disney.disneyplus"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/028_chatgpt.png",
+        "appName": "ChatGPT",
+        "packageName": "com.openai.chatgpt"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/029_google_gemini.png",
+        "appName": "Google Gemini",
+        "packageName": "com.google.android.apps.googleassistant"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/030_microsoft_copilot.png",
+        "appName": "Microsoft Copilot",
+        "packageName": "com.microsoft.copilot"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/031_perplexity.png",
+        "appName": "Perplexity",
+        "packageName": "ai.perplexity.perplexity"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/032_shopee.png",
+        "appName": "Shopee",
+        "packageName": "com.shopee.vn"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/033_lazada.png",
+        "appName": "Lazada",
+        "packageName": "com.lazada.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/034_tiktok_shop.png",
+        "appName": "TikTok Shop",
+        "packageName": "com.tiktok.shop.seller"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/035_zalopay.png",
+        "appName": "ZaloPay",
+        "packageName": "vn.com.vng.zalopay"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/036_vnpay.png",
+        "appName": "VNPay",
+        "packageName": "com.vnpay.vnpaywallet"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/037_google_maps.png",
+        "appName": "Google Maps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/038_grab.png",
+        "appName": "Grab",
+        "packageName": "com.grabtaxi.passenger"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/039_be.png",
+        "appName": "Be",
+        "packageName": "xyz.be.customer"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/040_linkedin.png",
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/041_pinterest.png",
+        "appName": "Pinterest",
+        "packageName": "com.pinterest"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/042_reddit.png",
+        "appName": "Reddit",
+        "packageName": "com.reddit.frontpage"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/043_discord.png",
+        "appName": "Discord",
+        "packageName": "com.discord"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/044_canva.png",
+        "appName": "Canva",
+        "packageName": "com.canva.editor"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/045_google_drive.png",
+        "appName": "Google Drive",
+        "packageName": "com.google.android.apps.docs"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/046_dropbox.png",
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/047_onedrive.png",
+        "appName": "OneDrive",
+        "packageName": "com.microsoft.skydrive"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/048_zoom.png",
+        "appName": "Zoom",
+        "packageName": "us.zoom.videomeetings"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/049_google_meet.png",
+        "appName": "Google Meet",
+        "packageName": "com.google.android.apps.meetings"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/050_microsoft_teams.png",
+        "appName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/051_notion.png",
+        "appName": "Notion",
+        "packageName": "notion.id"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/052_trello.png",
+        "appName": "Trello",
+        "packageName": "com.trello"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/053_duolingo.png",
+        "appName": "Duolingo",
+        "packageName": "com.duolingo"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/054_microsoft_word.png",
+        "appName": "Microsoft Word",
+        "packageName": "com.microsoft.office.word"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/055_microsoft_excel.png",
+        "appName": "Microsoft Excel",
+        "packageName": "com.microsoft.office.excel"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/056_microsoft_powerpoint.png",
+        "appName": "Microsoft PowerPoint",
+        "packageName": "com.microsoft.office.powerpoint"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/057_google_sheets.png",
+        "appName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/058_google_slides.png",
+        "appName": "Google Slides",
+        "packageName": "com.google.android.apps.docs.editors.slides"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/059_adobe_acrobat_reader.png",
+        "appName": "Adobe Acrobat Reader",
+        "packageName": "com.adobe.reader"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/060_shazam.png",
+        "appName": "Shazam",
+        "packageName": "com.shazam.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/061_soundcloud.png",
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/062_amazon.png",
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/063_aliexpress.png",
+        "appName": "AliExpress",
+        "packageName": "com.aliexpress.aliexpress"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/064_bookingcom.png",
+        "appName": "Booking.com",
+        "packageName": "com.booking"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/065_agoda.png",
+        "appName": "Agoda",
+        "packageName": "com.agoda.mobile.consumer"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/066_airbnb.png",
+        "appName": "Airbnb",
+        "packageName": "com.airbnb.android"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/067_tripcom.png",
+        "appName": "Trip.com",
+        "packageName": "com.tripcom.app"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/068_my_viettel.png",
+        "appName": "My Viettel",
+        "packageName": "com.viettel.myviettel"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/069_my_vnpt.png",
+        "appName": "My VNPT",
+        "packageName": "com.vnpt.myvnpt"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/070_my_mobifone.png",
+        "appName": "My MobiFone",
+        "packageName": "com.mobifone.mymobifone"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/071_techcombank_mobile.png",
+        "appName": "Techcombank Mobile",
+        "packageName": "vn.com.techcombank.identity"
+      },
+      {
+        "url": "/stickers/lazy_mood_girl/072_vietcombank_digibank.png",
+        "appName": "Vietcombank Digibank",
+        "packageName": "com.vcb"
+      }
+    ]
+  },
+  {
     "id": "1",
     "name": "Panda Head",
     "style": "Meme",
