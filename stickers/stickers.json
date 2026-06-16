@@ -527,6 +527,433 @@
     ]
   },
   {
+    "id": "hippo_mochi",
+    "name": "Hippo Mochi",
+    "style": "Cute",
+    "app": [
+      {
+        "url": "/stickers/hippo_mochi/001_phone.png",
+        "appName": "Phone",
+        "packageName": "com.google.android.dialer"
+      },
+      {
+        "url": "/stickers/hippo_mochi/002_contacts.png",
+        "appName": "Contacts",
+        "packageName": "com.google.android.contacts"
+      },
+      {
+        "url": "/stickers/hippo_mochi/003_messages.png",
+        "appName": "Messages",
+        "packageName": "com.google.android.apps.messaging"
+      },
+      {
+        "url": "/stickers/hippo_mochi/004_google_chrome.png",
+        "appName": "Google Chrome",
+        "packageName": "com.android.chrome"
+      },
+      {
+        "url": "/stickers/hippo_mochi/005_files.png",
+        "appName": "Files",
+        "packageName": "com.google.android.documentsui"
+      },
+      {
+        "url": "/stickers/hippo_mochi/006_camera.png",
+        "appName": "Camera",
+        "packageName": "com.google.android.GoogleCamera"
+      },
+      {
+        "url": "/stickers/hippo_mochi/007_google_photos.png",
+        "appName": "Google Photos",
+        "packageName": "com.google.android.apps.photos"
+      },
+      {
+        "url": "/stickers/hippo_mochi/008_gallery.png",
+        "appName": "Gallery",
+        "packageName": "com.android.gallery3d"
+      },
+      {
+        "url": "/stickers/hippo_mochi/009_calculator.png",
+        "appName": "Calculator",
+        "packageName": "com.google.android.calculator"
+      },
+      {
+        "url": "/stickers/hippo_mochi/010_clock.png",
+        "appName": "Clock",
+        "packageName": "com.google.android.deskclock"
+      },
+      {
+        "url": "/stickers/hippo_mochi/011_calendar.png",
+        "appName": "Calendar",
+        "packageName": "com.google.android.calendar"
+      },
+      {
+        "url": "/stickers/hippo_mochi/012_files_by_google.png",
+        "appName": "Files by Google",
+        "packageName": "com.google.android.apps.nbu.files"
+      },
+      {
+        "url": "/stickers/hippo_mochi/013_settings.png",
+        "appName": "Settings",
+        "packageName": "com.android.settings"
+      },
+      {
+        "url": "/stickers/hippo_mochi/014_gmail.png",
+        "appName": "Gmail",
+        "packageName": "com.google.android.gm"
+      },
+      {
+        "url": "/stickers/hippo_mochi/015_google_keep.png",
+        "appName": "Google Keep",
+        "packageName": "com.google.android.keep"
+      },
+      {
+        "url": "/stickers/hippo_mochi/016_facebook.png",
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana"
+      },
+      {
+        "url": "/stickers/hippo_mochi/017_instagram.png",
+        "appName": "Instagram",
+        "packageName": "com.instagram.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/018_tiktok.png",
+        "appName": "TikTok",
+        "packageName": "com.ss.android.ugc.trill"
+      },
+      {
+        "url": "/stickers/hippo_mochi/019_threads.png",
+        "appName": "Threads",
+        "packageName": "com.instagram.barcelona"
+      },
+      {
+        "url": "/stickers/hippo_mochi/020_x.png",
+        "appName": "X",
+        "packageName": "com.twitter.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/021_zalo.png",
+        "appName": "Zalo",
+        "packageName": "com.zing.zalo"
+      },
+      {
+        "url": "/stickers/hippo_mochi/022_messenger.png",
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca"
+      },
+      {
+        "url": "/stickers/hippo_mochi/023_telegram.png",
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger"
+      },
+      {
+        "url": "/stickers/hippo_mochi/024_whatsapp.png",
+        "appName": "WhatsApp",
+        "packageName": "com.whatsapp"
+      },
+      {
+        "url": "/stickers/hippo_mochi/025_youtube.png",
+        "appName": "YouTube",
+        "packageName": "com.google.android.youtube"
+      },
+      {
+        "url": "/stickers/hippo_mochi/026_spotify.png",
+        "appName": "Spotify",
+        "packageName": "com.spotify.music"
+      },
+      {
+        "url": "/stickers/hippo_mochi/027_disney.png",
+        "appName": "Disney+",
+        "packageName": "com.disney.disneyplus"
+      },
+      {
+        "url": "/stickers/hippo_mochi/028_chatgpt.png",
+        "appName": "ChatGPT",
+        "packageName": "com.openai.chatgpt"
+      },
+      {
+        "url": "/stickers/hippo_mochi/029_google_gemini.png",
+        "appName": "Google Gemini",
+        "packageName": "com.google.android.apps.googleassistant"
+      },
+      {
+        "url": "/stickers/hippo_mochi/030_microsoft_copilot.png",
+        "appName": "Microsoft Copilot",
+        "packageName": "com.microsoft.copilot"
+      },
+      {
+        "url": "/stickers/hippo_mochi/031_perplexity.png",
+        "appName": "Perplexity",
+        "packageName": "ai.perplexity.perplexity"
+      },
+      {
+        "url": "/stickers/hippo_mochi/032_shopee.png",
+        "appName": "Shopee",
+        "packageName": "com.shopee.vn"
+      },
+      {
+        "url": "/stickers/hippo_mochi/033_lazada.png",
+        "appName": "Lazada",
+        "packageName": "com.lazada.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/034_tiktok_shop.png",
+        "appName": "TikTok Shop",
+        "packageName": "com.tiktok.shop.seller"
+      },
+      {
+        "url": "/stickers/hippo_mochi/035_zalopay.png",
+        "appName": "ZaloPay",
+        "packageName": "vn.com.vng.zalopay"
+      },
+      {
+        "url": "/stickers/hippo_mochi/036_vnpay.png",
+        "appName": "VNPay",
+        "packageName": "com.vnpay.vnpaywallet"
+      },
+      {
+        "url": "/stickers/hippo_mochi/037_google_maps.png",
+        "appName": "Google Maps",
+        "packageName": "com.google.android.apps.maps"
+      },
+      {
+        "url": "/stickers/hippo_mochi/038_grab.png",
+        "appName": "Grab",
+        "packageName": "com.grabtaxi.passenger"
+      },
+      {
+        "url": "/stickers/hippo_mochi/039_be.png",
+        "appName": "Be",
+        "packageName": "xyz.be.customer"
+      },
+      {
+        "url": "/stickers/hippo_mochi/040_linkedin.png",
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/041_pinterest.png",
+        "appName": "Pinterest",
+        "packageName": "com.pinterest"
+      },
+      {
+        "url": "/stickers/hippo_mochi/042_reddit.png",
+        "appName": "Reddit",
+        "packageName": "com.reddit.frontpage"
+      },
+      {
+        "url": "/stickers/hippo_mochi/043_discord.png",
+        "appName": "Discord",
+        "packageName": "com.discord"
+      },
+      {
+        "url": "/stickers/hippo_mochi/044_canva.png",
+        "appName": "Canva",
+        "packageName": "com.canva.editor"
+      },
+      {
+        "url": "/stickers/hippo_mochi/045_google_drive.png",
+        "appName": "Google Drive",
+        "packageName": "com.google.android.apps.docs"
+      },
+      {
+        "url": "/stickers/hippo_mochi/046_dropbox.png",
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/047_onedrive.png",
+        "appName": "OneDrive",
+        "packageName": "com.microsoft.skydrive"
+      },
+      {
+        "url": "/stickers/hippo_mochi/048_zoom.png",
+        "appName": "Zoom",
+        "packageName": "us.zoom.videomeetings"
+      },
+      {
+        "url": "/stickers/hippo_mochi/049_google_meet.png",
+        "appName": "Google Meet",
+        "packageName": "com.google.android.apps.meetings"
+      },
+      {
+        "url": "/stickers/hippo_mochi/050_microsoft_teams.png",
+        "appName": "Microsoft Teams",
+        "packageName": "com.microsoft.teams"
+      },
+      {
+        "url": "/stickers/hippo_mochi/051_notion.png",
+        "appName": "Notion",
+        "packageName": "notion.id"
+      },
+      {
+        "url": "/stickers/hippo_mochi/052_trello.png",
+        "appName": "Trello",
+        "packageName": "com.trello"
+      },
+      {
+        "url": "/stickers/hippo_mochi/053_duolingo.png",
+        "appName": "Duolingo",
+        "packageName": "com.duolingo"
+      },
+      {
+        "url": "/stickers/hippo_mochi/054_microsoft_word.png",
+        "appName": "Microsoft Word",
+        "packageName": "com.microsoft.office.word"
+      },
+      {
+        "url": "/stickers/hippo_mochi/055_microsoft_excel.png",
+        "appName": "Microsoft Excel",
+        "packageName": "com.microsoft.office.excel"
+      },
+      {
+        "url": "/stickers/hippo_mochi/056_microsoft_powerpoint.png",
+        "appName": "Microsoft PowerPoint",
+        "packageName": "com.microsoft.office.powerpoint"
+      },
+      {
+        "url": "/stickers/hippo_mochi/057_google_sheets.png",
+        "appName": "Google Sheets",
+        "packageName": "com.google.android.apps.docs.editors.sheets"
+      },
+      {
+        "url": "/stickers/hippo_mochi/058_google_slides.png",
+        "appName": "Google Slides",
+        "packageName": "com.google.android.apps.docs.editors.slides"
+      },
+      {
+        "url": "/stickers/hippo_mochi/059_adobe_acrobat_reader.png",
+        "appName": "Adobe Acrobat Reader",
+        "packageName": "com.adobe.reader"
+      },
+      {
+        "url": "/stickers/hippo_mochi/060_shazam.png",
+        "appName": "Shazam",
+        "packageName": "com.shazam.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/061_soundcloud.png",
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/062_amazon.png",
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping"
+      },
+      {
+        "url": "/stickers/hippo_mochi/063_aliexpress.png",
+        "appName": "AliExpress",
+        "packageName": "com.aliexpress.aliexpress"
+      },
+      {
+        "url": "/stickers/hippo_mochi/064_bookingcom.png",
+        "appName": "Booking.com",
+        "packageName": "com.booking"
+      },
+      {
+        "url": "/stickers/hippo_mochi/065_agoda.png",
+        "appName": "Agoda",
+        "packageName": "com.agoda.mobile.consumer"
+      },
+      {
+        "url": "/stickers/hippo_mochi/066_airbnb.png",
+        "appName": "Airbnb",
+        "packageName": "com.airbnb.android"
+      },
+      {
+        "url": "/stickers/hippo_mochi/067_tripcom.png",
+        "appName": "Trip.com",
+        "packageName": "com.tripcom.app"
+      },
+      {
+        "url": "/stickers/hippo_mochi/068_my_viettel.png",
+        "appName": "My Viettel",
+        "packageName": "com.viettel.myviettel"
+      },
+      {
+        "url": "/stickers/hippo_mochi/069_my_vnpt.png",
+        "appName": "My VNPT",
+        "packageName": "com.vnpt.myvnpt"
+      },
+      {
+        "url": "/stickers/hippo_mochi/070_my_mobifone.png",
+        "appName": "My MobiFone",
+        "packageName": "com.mobifone.mymobifone"
+      },
+      {
+        "url": "/stickers/hippo_mochi/071_techcombank_mobile.png",
+        "appName": "Techcombank Mobile",
+        "packageName": "vn.com.techcombank.identity"
+      },
+      {
+        "url": "/stickers/hippo_mochi/072_vietcombank_digibank.png",
+        "appName": "Vietcombank Digibank",
+        "packageName": "com.vcb"
+      },
+      {
+        "url": "/stickers/hippo_mochi/073_mb_bank.png",
+        "appName": "MB Bank",
+        "packageName": "com.mbmobile"
+      },
+      {
+        "url": "/stickers/hippo_mochi/074_cake.png",
+        "appName": "Cake",
+        "packageName": "vn.cake.banking"
+      },
+      {
+        "url": "/stickers/hippo_mochi/075_app_75.png",
+        "appName": "App 75",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/076_app_76.png",
+        "appName": "App 76",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/077_app_77.png",
+        "appName": "App 77",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/078_app_78.png",
+        "appName": "App 78",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/079_app_79.png",
+        "appName": "App 79",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/080_app_80.png",
+        "appName": "App 80",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/081_app_81.png",
+        "appName": "App 81",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/082_app_82.png",
+        "appName": "App 82",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/083_app_83.png",
+        "appName": "App 83",
+        "packageName": ""
+      },
+      {
+        "url": "/stickers/hippo_mochi/084_app_84.png",
+        "appName": "App 84",
+        "packageName": ""
+      }
+    ]
+  },
+  {
     "id": "1",
     "name": "Panda Head",
     "style": "Meme",
