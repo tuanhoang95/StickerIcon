@@ -1,0 +1,67 @@
+{
+  "id": "cat_mochi_1",
+  "name": "Cat Mochi 1",
+  "style": "Cute",
+  "app": [
+    {
+      "url": "/stickers/cat_mochi_1/001_app_1.png",
+      "appName": "App 1",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/002_app_2.png",
+      "appName": "App 2",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/003_app_3.png",
+      "appName": "App 3",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/004_app_4.png",
+      "appName": "App 4",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/005_app_5.png",
+      "appName": "App 5",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/006_app_6.png",
+      "appName": "App 6",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/007_app_7.png",
+      "appName": "App 7",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/008_app_8.png",
+      "appName": "App 8",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/009_app_9.png",
+      "appName": "App 9",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/010_app_10.png",
+      "appName": "App 10",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/011_app_11.png",
+      "appName": "App 11",
+      "packageName": ""
+    },
+    {
+      "url": "/stickers/cat_mochi_1/012_app_12.png",
+      "appName": "App 12",
+      "packageName": ""
+    }
+  ]
+}
